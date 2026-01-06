@@ -1,0 +1,20 @@
+Engineering Stability Analysis 
+
+This project is a simplified engineering analysis workflow using Python. 
+Where the code computes a basic factor of safety slope using the limit equilibrium method
+and creating a plot which shows how the factor of safety changes with friction angle for a given slope.
+
+
+Features: 
+- The numerical computation of the factor of safety
+- Parameter sensitivity analysis on the friction angle
+- The visualization of the stability trends using a graph (matplotlib).
+
+Technologies: 
+- Python
+- Numerical Methods
+- Engineering modeling concepts
+
+Purpose: 
+Created to demonstrate engineering-focused coding and numerical reasoning related to 
+the software used in geotechnical and engineering analysis. 
